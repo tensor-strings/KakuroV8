@@ -1,0 +1,10 @@
+-1,0,true 0,33,true 0,26,true 0,8,true 0,20,true -1,0,true 0,27,true 0,4,true 0,22,true -1,0,true 
+12,0,true 0,0,false 0,0,false 0,0,false 0,0,false 19,0,true 7,0,false 3,0,false 9,0,false 0,17,true 
+30,0,true 0,0,false 0,0,false 0,0,false 0,0,false 24,9,true 9,0,false 1,0,false 6,0,false 8,0,false 
+15,0,true 0,0,false 0,0,false 24,10,true 9,0,false 7,0,false 8,0,false 16,6,true 7,0,false 9,0,false 
+24,0,true 0,0,false 0,0,false 0,0,false 6,15,true 2,0,false 1,0,false 3,0,false 0,21,true 0,34,true 
+11,0,true 0,0,false 0,0,false 0,0,false 0,0,false 10,16,true 2,0,false 1,0,false 3,0,false 4,0,false 
+-1,0,true 0,10,true 12,7,true 0,0,false 0,0,false 0,0,false 19,17,true 2,0,false 8,0,false 9,0,false 
+13,0,true 9,0,false 4,0,false 17,11,true 0,0,false 0,0,false 0,0,false 7,11,true 1,0,false 6,0,false 
+15,0,true 1,0,false 2,0,false 9,0,false 3,0,false 30,0,true 9,0,false 0,0,false 7,0,false 0,0,false 
+-1,0,true 7,0,true 1,0,false 2,0,false 4,0,false 13,0,true 0,0,false 7,0,false 2,0,false 0,0,false 
